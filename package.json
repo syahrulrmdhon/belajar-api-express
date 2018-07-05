@@ -1,0 +1,27 @@
+{
+  "name": "belajar-api-express",
+  "version": "1.0.0",
+  "description": "Belajar membua API menggunakan express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syahrulrmdhon/belajar-api-express.git"
+  },
+  "author": "Syahrul Romadhon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syahrulrmdhon/belajar-api-express"
+  },
+  "homepage": "https://github.com/syahrulrmdhon/belajar-api-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16",
+    "nodemon": "^1.17.5",
+    "touch": "^3.1.0"
+  }
+}
